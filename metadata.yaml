@@ -1,0 +1,38 @@
+_repo: An-apology-for-the-study-of-northern-antiquities_15329
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Peake, Charles H.
+    gutenberg_agent_id: '6587'
+    url: http://www.gutenberg.org/2009/agents/6587
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elstob, Elizabeth
+    birthdate: 1683
+    deathdate: 1756
+    gutenberg_agent_id: '6001'
+    url: http://www.gutenberg.org/2009/agents/6001
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Elstob
+description: This text is the introduction to the author's "Rudiments of Grammar for
+  the English-Saxon Tongue"
+gutenberg_issued: '2005-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15329'
+  lccn: '57000504'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1956'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 61
+subjects:
+- !lcsh 'Hickes, George, 1642-1715'
+- !lcsh 'English language -- Old English, ca. 450-1100'
+- !lcsh 'Germanic languages'
+- !lcc 'PE'
+title: An apology for the study of northern antiquities
+url: http://www.gutenberg.org/ebooks/15329
