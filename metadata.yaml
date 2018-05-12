@@ -18,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Elstob
 description: This text is the introduction to the author's "Rudiments of Grammar for
   the English-Saxon Tongue"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15329#An-apology-for-the-study-of-northern-antiquities
 gutenberg_issued: '2005-03-11'
 gutenberg_type: Text
 identifiers:
